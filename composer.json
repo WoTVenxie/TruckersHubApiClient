@@ -1,5 +1,5 @@
 {
-    "name": "WoTVenxie/TruckersHubApiClient",
+    "name": "wotvenxie/truckershub-api-client",
     "description": "Unofficial PHP Api Client for the Tuckershub API",
     "require": {
         "php": "^7.4 || ^8.0",
